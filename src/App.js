@@ -24,7 +24,7 @@ import './App.css';
 
 
 
-// ------ React Hook -------
+// ------ React Hook without ClassComponet-------
 const App = () => {
   const [count, setCount] = useState(0);
   return (
