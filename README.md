@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## What is advantage HooK?
+Simpler than Class Component. You don't need to write constructor, this, render etc :) React want to be functional Programming.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
